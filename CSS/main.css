@@ -1,0 +1,41 @@
+@media(max-width:500px)
+{
+    li 
+    {
+        display: none;
+    }
+    i
+    {
+        visibility: visible;
+    }
+
+    .nav
+    {
+        height: 600px;
+    }
+
+    .nav p
+    {
+        font-size: 28px;
+    }
+    .n1
+    {
+        grid-template-columns: 1fr;
+
+    }
+
+    .nn1
+   {
+    display: none;
+   }
+
+   .n1
+   {
+     height: 150px;
+   }
+   .jj1
+   {
+     display: none;
+   }
+
+}

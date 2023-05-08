@@ -1,0 +1,144 @@
+.main
+{
+    /* height: 200px; */
+    border: 2px solid;
+    background: rgb(13, 13, 13);
+    text-align: center;
+    padding: 20px 30px 40px 50px ;
+}
+.bb1
+{
+    color: white;
+    font-family: monospace;
+    padding: 20px;
+}
+
+li
+{
+    display: inline;
+    margin-right: 60px;
+    padding: 40px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    transition: .3s;
+    
+}
+
+i
+{
+    color: white;
+    visibility: hidden;
+    padding: 50px;
+}
+
+.main .hh
+{
+    color: lightcoral;
+}
+
+.main a:hover
+{
+    color: rgb(94, 169, 194);
+}
+
+                                              /* main overs here */
+
+
+                                              /* nav starts here */
+
+
+  .nav
+  {
+    height: 1000px;
+    background: linear-gradient(rgb(0, 0, 0, 0.5),rgb(0, 0, 0, 0.5)) , url(/Profile\ picture\ 2.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* border: 2px solid; */
+    text-align: center;
+  }       
+  
+  h1
+  {
+    color: white;
+    font-size: 42px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 20px;
+
+  }
+  p{
+    font-size: 36px;
+    padding-top: 20px;
+    color: beige;
+  }
+
+  .n1
+  {
+    height: 600px;
+    /* background: lightpink; */
+    /* border: 2px solid; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .nn1 
+  {
+    /* background: lightblue; */
+    /* border: 2px solid; */
+  }
+
+  .nn1 .llii
+  {
+     text-decoration: underline;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 20px;
+     color: burlywood;
+  }
+
+  .nn1 li
+  {
+    font-size: 20px;
+    padding: 20px;
+   color: burlywood;
+  }
+
+  .q1
+  {
+    font-size: 39px;
+    color: rgb(248, 106, 106);
+  }
+
+  .pp1
+  {
+    font-size: 33px;
+    color: rgb(190, 133, 198);
+  } 
+
+  .jj1
+  {
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }
+
+  .oo1
+  {
+    color: rgb(157, 215, 239);
+    font-family: cursive;
+    font-size: 30px;
+  }
+
+  .bb2 a
+  {
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: aquamarine;
+  }
+  
+
+ 
